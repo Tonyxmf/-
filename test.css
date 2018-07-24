@@ -1,0 +1,48 @@
+#head
+{
+	background-color: hotpink;
+	background-image: url(picture/fish.gif);
+}
+
+a:link{color:green;}
+a:visited{color: purple;}
+a:hover{color: yellow;}
+a:active{color: blue;}
+
+#title{
+color:#F00;
+font-size:28px
+}
+.secondTitle{
+font-size:18px;
+background-color:blue;
+text-align:center;
+}
+
+.strong-point
+{
+	list-style-type: decimal-leading-zero;
+}
+table
+{
+	border: 1px solid pink;
+}
+body{ 
+text-align:center;
+font-size:16px;
+font-family:楷体;
+
+}
+ul{
+text-align:left;}
+li{
+text-align:left;}
+.info{
+text-align:left;
+font-size:16px;
+}
+td{
+border-color:#09F;
+}
+tr{
+border-color:#09F;}
